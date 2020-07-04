@@ -17,9 +17,7 @@
     "graphql": "^15.1.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.9.19",
-    "yarn": "^1.22.4"
-  },
-  "devDependencies": {
+    "yarn": "^1.22.4",
     "nodemon": "^2.0.4"
   }
 }
